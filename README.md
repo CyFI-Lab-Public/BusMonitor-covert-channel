@@ -1,8 +1,6 @@
 ## BusMonitor Memory Bus Covert Channel
 
-Brendan Saltaformaggio
-
-I am not responsible for this code or its use. :P
+I am not responsible for this code or its use. :P Please read the [BusMonitor](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.299.2497&rep=rep1&type=pdf) paper before working with this code.
 
 Compile with gcc on Linux. I haven't tested other compilers/systems.
 
